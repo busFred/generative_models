@@ -1,0 +1,8 @@
+torch
+torchvision
+kornia
+pytorch-lightning
+matplotlib
+onnx
+onnxruntime
+torchinfo
